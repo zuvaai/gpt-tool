@@ -5,7 +5,7 @@ go 1.19
 replace github.com/zuvaai/engine/v3 => ../../../engine
 
 require (
-	github.com/gofiber/fiber/v2 v2.52.11
+	github.com/gofiber/fiber/v2 v2.52.12
 	github.com/rs/zerolog v1.27.0
 	github.com/sashabaranov/go-openai v1.6.1
 	github.com/spf13/cobra v1.7.0
